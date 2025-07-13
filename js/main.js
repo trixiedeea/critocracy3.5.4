@@ -8,7 +8,7 @@ import { state, updateGameState } from '/state.js';
 import '/state.js';
 import '/ui.js';
 import '/board-data.js';
-import '/players.js'
+import '/players.js';
 import '/cards.js';
 import '/startScreen.js';
 import '/playerCountScreen.js';
@@ -21,7 +21,7 @@ import '/cards/ageOfExpansionCards.js';
 import '/cards/ageOfResistanceCards.js';
 import '/cards/ageoFReckoningCards.js';
 import '/cards/ageofLegacyCards.js';
-import 'endOfTurnCards.js';
+import '/endOfTurnCards.js';
 
 
 
