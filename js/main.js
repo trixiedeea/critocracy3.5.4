@@ -16,7 +16,7 @@ import '/roleSelectScreen.js';
 import '/turnOrderScreen.js';
 import '/animations.js';
 import '/board.js';
-import 'game.js';
+import '/game.js';
 import '/cards/ageOfExpansionCards.js';
 import '/cards/ageOfResistanceCards.js';
 import '/cards/ageoFReckoningCards.js';
