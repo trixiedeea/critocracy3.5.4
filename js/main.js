@@ -5,23 +5,23 @@ import { initializeUI } from '/ui.js';
 import { state, updateGameState } from '/state.js';
 
 // Import initialization screen modules
-import './state.js';
-import './ui.js';
-import './board-data.js';
-import './players.js';
-import './cards.js';
-import './startScreen.js';
-import './playerCountScreen.js';
-import './roleSelectScreen.js';
-import './turnOrderScreen.js';
-import './animations.js';
-import './board.js';
-import './game.js';
-import './cards/ageOfExpansionCards.js';
-import './cards/ageOfResistanceCards.js';
-import './cards/ageoFReckoningCards.js';
-import './cards/ageofLegacyCards.js';
-import './cards/endOfTurnCards.js';
+import '../state.js';
+import '../ui.js';
+import '../board-data.js';
+import '../players.js';
+import '../cards.js';
+import '../startScreen.js';
+import '../playerCountScreen.js';
+import '../roleSelectScreen.js';
+import '../turnOrderScreen.js';
+import '../animations.js';
+import '../board.js';
+import '../game.js';
+import '../cards/ageOfExpansionCards.js';
+import '../cards/ageOfResistanceCards.js';
+import '../cards/ageoFReckoningCards.js';
+import '../cards/ageofLegacyCards.js';
+import '../cards/endOfTurnCards.js';
 
 
 
